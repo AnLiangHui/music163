@@ -3,7 +3,7 @@
 clone项目：
 
 ```
-git clone https://github.com/coderwhy/hy-react-web-music.git
+git clone https://github.com/AnLiangHui/music163.git
 ```
 
 安装项目依赖：
